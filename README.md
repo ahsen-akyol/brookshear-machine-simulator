@@ -6,7 +6,6 @@
 - Makine Dili ve Brookshear Mimarisi
 ### Youtube Linki
 - https://youtu.be/EhnS2VlZVrc
-- **Not:** Hocam hem teorik konuyu hem de kodun tüm işlevlerini eksiksiz sunabilmek adına süreyi 2 dakika aşmak durumunda kaldım,anlayışınız için teşekkür ederim.
 ### Proje Sunumu
 > **Not:** Eğer PDF önizlemesi GitHub üzerinde hata verirse (kırmızı uyarı), dosyayı doğrudan indirmek için aşağıdaki bağlantıyı kullanabilirsiniz:
 > [📥 Sunumu Bilgisayarına İndir](https://github.com/ahsen-akyol/BLM101_25360859073_AhsenAkyol/raw/main/Sunum.pdf)
