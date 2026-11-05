@@ -1,7 +1,8 @@
-# BLM101_25360859073_AhsenAkyol
-### Öğrenci Bilgileri
-- **Ad Soyad:** Ahsen Akyol
-- **Öğrenci No:** 25360859073
+# Brookshear Makine Mimarisi & Instruction Decoder Simülatörü
+### Geliştirici & Akademik Bilgiler
+- **Geliştirici:** Ahsen Akyol
+- **Ders:** BLM101 - Bilgisayar Mühendisliğine Giriş
+- **Kurum:** Bursa Teknik Üniversitesi
 ### Proje Konusu
 - Makine Dili ve Brookshear Mimarisi
 ### Youtube Linki
